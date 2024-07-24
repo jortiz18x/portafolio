@@ -3,3 +3,5 @@
 Para visualizar el portafolio ingrese al siguiente enlace.
 
 [Enlace](https://jortiz18x.github.io/portafolio/)
+
+¿Qué te pareció?, escribéme a mis redes
